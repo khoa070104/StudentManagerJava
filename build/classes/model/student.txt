@@ -1,0 +1,4 @@
+studentId= qe190000, firstname= Nguyen, lastname= Khoa, age= 19, dob = 01/01/2004, gender= male
+studentId= qe190001, firstname= Nguyen, lastname= Son, age= 19, dob = 02/01/2004, gender= male
+studentId= qe190002, firstname= Thai, lastname= Bao, age= 19, dob = 14/05/2004, gender= female
+studentId= qe190003, firstname= Nguyen, lastname= Xinh, age= 19, dob = 11/03/2004, gender= female
